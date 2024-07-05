@@ -9,7 +9,7 @@ git clone https://github.com/IngenieroRicardo/readbin
 cd readbin
 git clone https://github.com/IngenieroRicardo/DisassemblyCPP
 go build readbin.go
-./readbin Linux/login.bin
+./readbin DisassemblyCPP/Linux/login.bin
 ```
 
 
